@@ -1,0 +1,24 @@
+@media (min-width: 700px) {
+  .container {
+    margin: 0 auto;
+    margin-top:50px;
+    max-width: 75vw;
+    margin-bottom: 50px;
+  }
+}
+
+@media (max-width: 699px) {
+  .container {
+    margin: 0 auto;
+    margin-top:25px;
+    margin-bottom: 100px;
+  }
+}
+
+.app-content {
+  margin-top: 50px;
+}
+
+.ant-layout {
+  background: white !important;
+}
